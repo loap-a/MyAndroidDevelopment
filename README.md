@@ -3,3 +3,7 @@
 #### 第一课 Kotlin基础知识 ####
 - 第一次上机实践
  ![avatar](./img/lesson1.png)
+
+- 第一单元三个徽章
+
+  ![avatar](./img/part1.png)
