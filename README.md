@@ -1,9 +1,17 @@
 # MyAndroidDevelopment
-### Week 3  2022.03.01 ###
-#### 第一课 Kotlin基础知识 ####
-- 第一次上机实践
- ![avatar](./img/lesson1.png)
+- My account: 9 8 five
 
-- 第一单元三个徽章
+- Lesson1
+ ![avatar](./img/lesson11.png)
 
-  ![avatar](./img/part1.png)
+- lesson2
+
+  ![avatar](./img/lesson2.png)
+
+- lesson3
+
+  ![avatar](./img/lesson3.png)
+
+- lesson4
+
+  ![avatar](./img/lesson4.png)
