@@ -15,3 +15,7 @@
 - lesson4
 
   ![avatar](./img/lesson4.png)
+
+- lesson5
+
+  ![avatar](./lab02/lesson5.png)
