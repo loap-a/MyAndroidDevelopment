@@ -19,3 +19,7 @@
 - lesson5
 
   ![avatar](./lab02/lesson5.png)
+
+lesson6
+
+![avatar](./lab03/lesson6.png)
