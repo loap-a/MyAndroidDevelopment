@@ -20,6 +20,14 @@
 
   ![avatar](./lab02/lesson5.png)
 
-lesson6
+- lesson6
 
 ![avatar](./lab03/lesson6.png)
+
+- lesson7
+
+  ![avatar](./lab04/lesson7.png)
+
+- lesson8
+
+  ![avatar](./lab05/lesson8.png)
