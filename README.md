@@ -36,3 +36,6 @@
 
   ![avatar](./lab06/lesson9.png)
 
+- lesson 10
+
+  ![avatar](./lab07/lesson10.png)
