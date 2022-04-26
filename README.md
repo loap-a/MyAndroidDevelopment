@@ -39,3 +39,8 @@
 - lesson 10
 
   ![avatar](./lab07/lesson10.png)
+
+- lesson 11
+
+  ![avatar](./lab08/lesson11.png)
+
