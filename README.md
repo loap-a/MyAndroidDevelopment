@@ -1,4 +1,9 @@
-# MyAndroidDevelopment
+## 小程序部分项目地址
+
+- https://github.com/loap-a/MyMiniProgram
+
+## 安卓实验部分 ## 
+
 - My account: 9 8 five
 
 - Lesson 1
